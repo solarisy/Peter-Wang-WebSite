@@ -17,8 +17,8 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "docs/peter-wang-web-site",
-            "baseHref": "/peter-wang-web-site/",
+            "outputPath": "docs/Peter-Wang-WebSite",
+            "baseHref": "/Peter-Wang-WebSite/",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
