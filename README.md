@@ -26,7 +26,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-
-`ng deploy`
-
-`https://solarisy.github.io/Peter-Wang-WebSite`
+## publish to github pages
+`ng deploy` , this command will build code and push to github with gh-pages branch. so you need config github pages to `gh-pages` branch. 
+**Wait a minite** and then visite [Peter-Wang-WebSite](https://solarisy.github.io/Peter-Wang-WebSite) will be find page changed.
