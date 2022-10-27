@@ -1,2 +1,3 @@
 # Peter-Wang-WebSite
-用于个人网站
+gh-page分支用于发布个人网站，github pages 使用此分支。
+
