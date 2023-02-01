@@ -39,7 +39,7 @@ Edit file `angular.json` add `"baseHref": "/Peter-Wang-WebSite/"` to `projects.P
 
 ### 3. Publish to github pages
     ng deploy
- This command will build code and push to github with gh-pages branch. 
+ This command will build code and push to github with gh-pages branch. When you installed *angular-cli-ghpages*, `ng deploy` will exec `angular-cli-ghpages:deploy`, see:angular.json `"deploy":{"builder": "angular-cli-ghpages:deploy"}`
 
 ### 4. Setting github pages
 Config github pages to `gh-pages` branch. 
